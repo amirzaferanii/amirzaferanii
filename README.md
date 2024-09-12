@@ -1,39 +1,43 @@
-# Hi there 👋, I'm Amir Hossein!
+<h1 align="center">Afshar Sharifi</h1>
+<h3 align="center">Back End Developer</h3>
 
-Welcome to my GitHub profile! I'm a Python enthusiast specializing in the Django framework, always eager to learn more and expand my programming skills.
+<!-- <ul>
+    <li>🔭 I’m currently working on <b>Ketabio</b></li>
+    <li>🌱 I’m currently learning <b>FastAPI</b></li>
+    <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>
+    <li>📫 How to reach me: <b><a href="afsharsharifi2020@gmail.com">afsharsharifi2020@gmail.com</a></b></li>
+</ul> -->
 
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afsharsharifi&show_icons=true&theme=transparent" alt="Anurag's github stats" />
+</a>
 
-## 🚀 About Me
+<h3>Contact Me</h3>
+<p>
+    <a href="mailto:afsharsharifi2020@gmail.com" target="blank">
+        <img src="./icons/gmail.svg" alt="Afshar Sharifi" height="40" width="40"/>
+    </a>
+    <a href="https://linkedin.com/in/afsharsharifi" target="blank">
+        <img src="./icons/linkedin.svg" alt="Afshar Sharifi" height="40" width="40" />
+    </a>
+    <a href="https://stackoverflow.com/users/13569971/afshar-sharifi" target="blank">
+        <img src="./icons/stack-overflow.svg" alt="Afshar Sharifi" height="40" width="40" />
+    </a>
+    <a href="https://t.me/afshar_sharifi" target="blank">
+        <img src="./icons/telegram.svg" alt="Afshar Sharifi" height="40" width="40" />
+    </a>
+</p>
 
-- 💻 Back-End Developer
-- 🛠 Building reusable applications
-- 📈 Interested in solving complex problems and building scalable applications
-
-### Languages:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Tools:
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🛠️ Projects
- - **[Online Shop](https://github.com/amirzaferanii/Ecommerce)** - In this online shop, users have profiles and can chat with each other
-- **[Account](https://github.com/amirzaferanii/Account)** - Reusable application for registration and login with Python.
-- **[InstaDownloader](https://github.com/amirzaferanii/instadownloader)** - Instagram profile downloader using Tkinter.
-- **[Telegram Robot](https://github.com/amirzaferanii/Telegram_Robot)** - Fun Telegram bot for encoding and encrypting messages.
-
----
-
-## 📫 Connect with Me
-
-- [Telegram](https://t.me/iamirzaferani)
+<h3>My Skills</h3>
+<p>
+    <img src="./icons/python.svg" alt="python" title="Python" width="40" height="40" />
+    <img src="./icons/django.svg" alt="django" title="Django" width="40" height="40" />
+    <img src="./icons/fastapi.svg" alt="fastapi" title="FastAPI" width="40" height="40" />
+    <img src="./icons/flask.png" alt="flask" title="Flask" width="40" height="40" />
+    <img src="./icons/javascript.svg" alt="javascript" title="JavaScript" width="40" height="40" />
+    <img src="./icons/html-5.svg" alt="html" title="HTML" width="40" height="40" />
+    <img src="./icons/css3.svg" alt="css" title="CSS" width="40" height="40" />
+    <img src="./icons/mongodb.svg" alt="mongodb" title="MongoDB" width="40" height="40" />
+    <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
+    <img src="./icons/postman.svg" alt="postman" title="Postman" width="40" height="40" />
+</p>
