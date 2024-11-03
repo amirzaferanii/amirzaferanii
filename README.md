@@ -1,12 +1,8 @@
 <h1 align="center">Amir Hossein Zaferani</h1>
 <h3 align="center">Back End Developer</h3>
 
-<!-- <ul>
-    <li>💻 Back-End Developer </li>
-    <li>🛠 Building reusable applications </li>
-    <li>📈 Interested in solving complex problems and building scalable applications </li>
-    <li>💬 Ask me about <b>Python</b> - <b>Django</b></li>
-</ul> -->
+![](https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 <h3>Contact Me</h3>
 <p>
