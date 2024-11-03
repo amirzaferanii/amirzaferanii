@@ -1,10 +1,6 @@
 <h1 align="center">Amir Hossein Zaferani</h1>
 <h3 align="center">Back End Developer</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 <!-- <ul>
     <li>💻 Back-End Developer </li>
     <li>🛠 Building reusable applications </li>
