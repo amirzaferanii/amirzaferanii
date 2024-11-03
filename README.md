@@ -31,17 +31,7 @@
     <img src="./icons/postman.svg" alt="postman" title="Postman" width="40" height="40" />
 </p>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
-</div>
-<div align="left">
-    <img src="https://visitcount.itsvg.in/api?id=amirzaferanii&icon=0&color=0)](https://visitcount.itsvg.in" /><br/>
-</div>
-<br/>
 
-<div align="center">
+<div align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
-</div>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=amirzaferanii&theme=radical&no-frame=false&no-bg=true&margin-w=4" /><br/>
 </div>
