@@ -1,8 +1,9 @@
 <h1 align="center">Amir Hossein Zaferani</h1>
 <h3 align="center">Back End Developer</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+</div>
 
 <h3>Contact Me</h3>
 <p>
@@ -16,12 +17,6 @@
         <img src="./icons/telegram.svg" alt="Amir Zaferani" height="40" width="40" />
     </a>
 </p>
-
-
-
-
-
-
 
 <h3>My Skills</h3>
 <p>
