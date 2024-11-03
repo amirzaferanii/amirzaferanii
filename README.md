@@ -2,10 +2,6 @@
 <h3 align="center">Back End Developer</h3>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-</div>
-
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirzaferanii&theme=dark&hide_border=false" /><br/>
 </div>
 
@@ -34,4 +30,11 @@
     <img src="./icons/git.svg" alt="git" title="Git" width="40" height="40" />
     <img src="./icons/postman.svg" alt="postman" title="Postman" width="40" height="40" />
 </p>
+
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api?username=amirzaferanii&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+</div>
+<div align="left">
+    <img src="https://visitcount.itsvg.in/api?id=amirzaferanii&icon=0&color=0)](https://visitcount.itsvg.in" /><br/>
+</div>
 
